@@ -1,4 +1,7 @@
 # Data-science-blog-post
+
+![screenchot](Screenshot.png)
+
 this is project for Udacity course
 I use numpy, pandas, matplotlib, and seaborn libraries
 My curiosity about the data science job's salaries has got me to write this blog
